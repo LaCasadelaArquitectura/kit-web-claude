@@ -1,0 +1,1 @@
+document.getElementById('menu').addEventListener('click',function(){document.querySelector('header nav').classList.toggle('abierto')});
